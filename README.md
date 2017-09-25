@@ -2,9 +2,11 @@
 
 check opencv version
 
+```python
 $ python
 >>> import cv2
 >>> cv2.__version__
+```
 
 
 Install 3.x
